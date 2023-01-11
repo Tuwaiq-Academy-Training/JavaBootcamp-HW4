@@ -51,9 +51,13 @@ Result: "cat", "dog", "red"
 
 ## 7.Write a menu driven Java program with following option: 
 a. Accept elements of an array 
+
 b. Display elements of an array 
+
 c. Search the element within array 
+
 d. Sort the array 
+
 the size of the array should be entered by the user.
 
 ## 8. Write a program thats displays the number of occurrences of an element in the array.
