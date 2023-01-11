@@ -23,29 +23,21 @@ The numbers in the said array that are greater than the average are:
 100
 
 
-
-## 4.Write a Java program to test that a given array of integers of length 2 contains a 4 or a 7. 
-### Original Array:
-[5, 7]
-### Sample Output:
-true 
-
-
-## 5.Write a Java program to get the larger value between first and last element of an array (length 3) of integers.
+## 4.Write a Java program to get the larger value between first and last element of an array of integers.
 ### Original Array:
 [20, 30, 40]   
 ### Sample Output:
 Larger value between first and last element: 40 
 
 
-## 6.Write a Java program to swap the first and last elements of an array (length must be at least 1) and create a new array. 
+## 5.Write a Java program to swap the first and last elements of an array and create a new array. 
 ### Original Array:
 [20, 30, 40]  
 ### Sample Output:
 New array after swapping the first and last elements: [40, 30, 20] 
 
 
-## 7.Write a Java program to find all of the longest word in a given dictionary.
+## 6.Write a Java program to find all of the longest word in a given dictionary.
 ### Example:
 {
 "cat",
@@ -57,3 +49,33 @@ New array after swapping the first and last elements: [40, 30, 20]
 
 Result: "cat", "dog", "red"
 
+## 7.Write a menu driven Java program with following option: 
+a. Accept elements of an array 
+b. Display elements of an array 
+c. Search the element within array 
+d. Sort the array 
+the size of the array should be entered by the user.
+
+## 8. Write a program thats displays the number of occurrences of an element in the array.
+### Original Array:
+[1,1,1,3,3,5]
+### Sample Output:
+3 occurs 2 times
+
+1 occurs 3 times
+
+9 occurs 0 time
+
+
+## 9. Write a program that places the odd elements of an array before the even elements.
+### Original Array:
+[2,3,40,1,5,9,4,10,7]  
+### Sample Output:
+[3,1,5,9,7,2,40,4,10]
+
+
+## 10. Write a program that test the equality of two arrays.
+[2,3,6,6,4]
+[2,3,6,6,4]
+### Sample Output:
+true
