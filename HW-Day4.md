@@ -54,5 +54,6 @@ New array after swapping the first and last elements: [40, 30, 20]
 "is",
 "am"
 }
+
 Result: "cat", "dog", "red"
 
