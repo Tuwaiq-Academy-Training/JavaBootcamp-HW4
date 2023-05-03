@@ -50,13 +50,15 @@ New array after swapping the first and last elements: [40, 30, 20]
 Result: "cat", "dog", "red"
 
 ## 7.Write a menu driven Java program with following option: 
-a. Accept elements of an array 
+1. Accept elements of an array 
 
-b. Display elements of an array 
+2. Display elements of an array 
 
-c. Search the element within array 
+3. Search the element within array 
 
-d. Sort the array 
+4. Sort the array 
+
+5. To Stop
 
 the size of the array should be entered by the user.
 
